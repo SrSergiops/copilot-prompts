@@ -1,0 +1,316 @@
+#RESPOSTA AO SEGUNDO PROMPT:
+
+Olá! Recebi suas informações do entrevistador.
+Vejo que você escolheu Desenvolvimento Mobile (iOS/Android) e tem 20 horas por semana para estudar. Perfeito! Sua experiência prévia com diagramação ajudará muito no olhar para UI/UX, e sua vivência em Compliance na Sumaq trará uma base sólida para entender regras de negócio e segurança de dados.
+Vou montar agora seu plano completo personalizado...
+🧩 VISÃO DO DIA A DIA
+Como é o trabalho de um(a) Desenvolvedor(a) Mobile:
+Desenvolvimento de Telas: Transformar designs (Figma/Adobe XD) em interfaces funcionais e responsivas.
+Consumo de APIs: Conectar o aplicativo a serviços na nuvem para buscar e enviar dados em tempo real.
+Resolução de Bugs: Identificar e corrigir falhas de performance, crashes ou erros de lógica relatados por usuários.
+Publicação em Lojas: Preparar o aplicativo para os rigorosos processos de revisão da Apple App Store e Google Play Store.
+Implementação de IA: Integrar modelos de inteligência artificial para recursos como reconhecimento de voz, imagem ou recomendações personalizadas.
+🧠 MAPA DE SKILLS
+CORE SKILLS (essenciais):
+Lógica de Programação e Estrutura de Dados.
+Desenvolvimento Multiplataforma (Flutter ou React Native).
+Consumo de APIs RESTful.
+NICE-TO-HAVE (complementares):
+UI/UX Design (aproveitando seu background de diagramador).
+Noções de Segurança e LGPD (aproveitando seu background de Compliance).
+Prompt Engineering para integração de LLMs em apps.
+FERRAMENTAS E TECNOLOGIAS:
+Dart/Flutter (Recomendado para início rápido e versátil).
+Git & GitHub (Controle de versão).
+VS Code ou Android Studio.
+📅 ROADMAP DE 90 DIAS
+ADAPTADO PARA: 20 horas/semana (Aceleração Alta)
+MÊS 1 - FUNDAMENTOS
+SEMANA 1-2:
+Lógica de programação aplicada e Sintaxe da linguagem Dart.
+Configuração do ambiente de desenvolvimento e primeiro "Hello World" no emulador.
+SEMANA 3-4:
+Estudo profundo de Widgets (Stateless vs Stateful).
+Criação de layouts complexos (Row, Column, Stack, ListView).
+MÊS 2 - PRÁTICA
+SEMANA 5-6:
+Gerenciamento de Estado (Provider ou Riverpod).
+Navegação entre múltiplas telas e passagem de parâmetros.
+SEMANA 7-8:
+Integração com Firebase (Autenticação e Banco de Dados em tempo real).
+Consumo de APIs externas utilizando o pacote http ou dio.
+MÊS 3 - PORTFÓLIO E PREPARAÇÃO
+SEMANA 9-10:
+Introdução a IA no Mobile: Integrar a API do Gemini ou OpenAI para criar um chat inteligente.
+Refinamento de UI: Aplicar conceitos de diagramação para tornar o app visualmente profissional.
+SEMANA 11-12:
+Finalização do projeto principal e deploy em dispositivos físicos.
+Otimização do LinkedIn, GitHub e simulação de entrevistas técnicas.
+🚀 PROJETO DE PORTFÓLIO
+PROJETO: ComplianceGPT Mobile
+O QUE FAZER:
+Um aplicativo que permite ao usuário tirar fotos de documentos ou digitar normas e, através de IA, verificar se estão em conformidade com diretrizes pré-estabelecidas (unindo sua experiência anterior com a nova skill).
+ENTREGÁVEIS:
+Repositório no GitHub com README detalhado.
+Aplicativo funcional com tela de Login, Dashboard e Chat com IA.
+Vídeo de demonstração do app funcionando (Demo Tape).
+CRITÉRIOS DE ACEITAÇÃO:
+Interface responsiva (funciona em telas pequenas e grandes).
+Persistência de dados (os logs de consulta devem ficar salvos).
+Integração funcional com uma API de Inteligência Artificial.
+DICA: Como a pessoa já foi diagramador, foque em um design impecável. No mercado mobile, a primeira impressão visual do portfólio abre muitas portas.
+💬 ROTEIRO DE ENTREVISTAS
+PERGUNTA 1: Como sua experiência em Compliance ajuda no desenvolvimento mobile?
+COMO RESPONDER: "Experiência em Compliance deu uma atenção rigorosa aos detalhes e às normas. No desenvolvimento, isso se traduz em escrever código mais seguro, respeitar as diretrizes das lojas (Apple/Google) e garantir que o tratamento de dados do usuário siga a LGPD."
+PERGUNTA 2: O que é um Widget no Flutter?
+COMO RESPONDER: "No Flutter, tudo é um widget. Eles são as unidades básicas da interface. Existem os Stateless, que são imutáveis, e os Stateful, que podem mudar sua aparência dinamicamente conforme a interação do usuário ou chegada de dados."
+PERGUNTA 3: Como você lidou com um erro técnico difícil?
+COMO RESPONDER: "Fale sobre um erro de lógica ou integração de API. Destaque como você usou o Debugger, consultou a documentação oficial e comunidades como StackOverflow para resolver o problema de forma estruturada."
+PERGUNTA 4: Como integrar IA em um aplicativo mobile hoje?
+COMO RESPONDER: "Geralmente através de requisições assíncronas para APIs de provedores como OpenAI ou Google. Enviamos o prompt do usuário via JSON e tratamos o retorno para exibir na interface de forma amigável."
+PERGUNTA 5: Por que você decidiu mudar de carreira para tecnologia agora?
+COMO RESPONDER: "Sempre tive interesse pelo 'como as coisas funcionam'. Unindo minha base em design/diagramação com a necessidade de automação que vi no setor de compliance, percebi que criar soluções mobile com IA é onde posso gerar mais valor hoje."
+🎓 TRILHA DIO RECOMENDADA
+TRILHA: Formação Flutter Specialist
+POR QUE ESSA TRILHA:
+Ela cobre desde o Dart básico até arquiteturas avançadas, exatamente o que você precisa para sair do zero e chegar ao nível de criar apps profissionais com IA.
+PRÓXIMOS PASSOS:
+Acesse o site da DIO (dio.me).
+Busque por "Flutter Specialist".
+Inscreva-se gratuitamente ou através do plano Pro.
+Siga o cronograma junto com este roadmap, focando em completar os desafios de código.
+✨ Seu plano está pronto!
+Lembre-se: o mais importante é a constância, não a velocidade. Comece pela Semana 1 e vá no seu ritmo. Sua transição é muito viável devido à combinação única de skills que você já possui!
+Tem alguma dúvida sobre o plano? Posso detalhar alguma parte específica?
+
+=================================
+# PRIMEIRA PERGUNTA APOS RESPOSTA DO SEGUNDO PROMPT:
+## Refaca o plano, aumente o prazo para 180 dias, e acrescente o GitHub, Flutter/Dart e uma ferramenta de UI/UX
+=================================
+Entendido! Com o prazo estendido para 180 dias e a carga de 20 horas semanais, conseguiremos aprofundar muito mais na base técnica, garantir o domínio das ferramentas escolhidas (Flutter/Dart, GitHub) e aproveitar seu olhar estético com ferramentas de UI/UX.
+Aqui está o seu roadmap de transição de carreira atualizado para 2026:
+🧩 VISÃO DO DIA A DIA
+Como é o trabalho de um(a) Desenvolvedor(a) Mobile Flutter:
+Arquitetura de Software: Estruturar o código para que o app seja fácil de manter e escalar.
+Desenvolvimento de UI (Figma to Code): Implementar interfaces pixel-perfect baseadas em protótipos de alta fidelidade.
+Versionamento Colaborativo: Subir código para o GitHub, abrir Pull Requests e realizar Code Reviews com o time.
+Consumo de Microsserviços: Conectar o app a back-ends e serviços de IA via APIs REST.
+Otimização de Performance: Garantir que o app seja fluido (60 FPS) e consuma pouca bateria/memória.
+🧠 MAPA DE SKILLS
+CORE SKILLS (essenciais):
+Dart Avançado: Programação Orientada a Objetos (POO) e Programação Assíncrona.
+Flutter Framework: Gerenciamento de estado, ciclo de vida e navegação.
+Git & GitHub: Git Flow, branches, commits e resolução de conflitos.
+NICE-TO-HAVE (complementares):
+UI/UX Design: Princípios de usabilidade, tipografia e hierarquia visual.
+Clean Architecture: Organização de pastas e separação de responsabilidades no código.
+IA Integration: Uso de modelos locais (Google On-device AI) e via API.
+FERRAMENTAS E TECNOLOGIAS:
+Flutter & Dart (SDK principal).
+Figma (Para design de interfaces e prototipagem).
+GitHub (Hospedagem de código e portfólio técnico).
+Firebase/Supabase (Back-end as a Service).
+📅 ROADMAP DE 180 DIAS
+ADAPTADO PARA: 20 horas/semana (Foco em Profundidade Técnica)
+MÊS 1 - DESIGN E LÓGICA INICIAL
+Semana 1-2: Fundamentos de UI/UX no Figma: Crie o protótipo de um app simples (estilo To-Do).
+Semana 3-4: Introdução ao Dart: Variáveis, tipos, listas e funções. Instalação do ambiente Flutter.
+MÊS 2 - DOMÍNIO DO DART E GIT
+Semana 5-6: Dart Avançado: Classes, Herança, Mixins e Null Safety.
+Semana 7-8: GitHub para Desenvolvedores: Aprenda a usar o terminal, dar push, pull e gerenciar repositórios.
+MÊS 3 - CONSTRUINDO INTERFACES (UI)
+Semana 9-10: Widgets Fundamentais: Traduza seus designs do Figma para código Flutter.
+Semana 11-12: Responsividade e Adaptabilidade (fazer o app rodar bem em Android e iOS).
+MÊS 4 - DINÂMICA E DADOS
+Semana 13-14: Programação Assíncrona (Future e Stream) e consumo de APIs JSON.
+Semana 15-16: Gerenciamento de Estado: Aprenda o padrão BLoC ou Signals (tendência para 2026).
+MÊS 5 - INTELIGÊNCIA ARTIFICIAL E BACK-END
+Semana 17-18: Integração com Firebase (Auth e Firestore) para salvar dados na nuvem.
+Semana 19-20: Implementação de IA: Adicionar funcionalidades de transcrição de áudio ou análise de imagem no app.
+MÊS 6 - PROJETO FINAL E CARREIRA
+Semana 21-22: Desenvolvimento do Projeto de Portfólio (do design no Figma ao código no GitHub).
+Semana 23-24: Refinamento de currículo, LinkedIn e preparação para testes técnicos de Live Coding.
+🚀 PROJETO DE PORTFÓLIO
+PROJETO: Sumaq Compliance Assistant
+O QUE FAZER:
+Um app mobile desenvolvido em Flutter que automatiza a auditoria de documentos. O usuário tira foto de um formulário e a IA identifica campos faltantes ou irregularidades baseada em regras de compliance.
+ENTREGÁVEIS:
+Link do Protótipo no Figma: Mostrando o fluxo de experiência do usuário.
+Repositório no GitHub: Com histórico de commits organizados e documentação técnica.
+APK/App para Teste: Versão instalável para recrutadores testarem.
+CRITÉRIOS DE ACEITAÇÃO:
+Design moderno seguindo as diretrizes do Material Design 3.
+Histórico de análises salvo localmente (SQLite) e na nuvem (Firebase).
+Integração com IA para processamento de texto (OCR + LLM).
+DICA: Use seu GitHub como seu "cartão de visitas". Mantenha o "verdinho" das contribuições constante para mostrar que você estuda todos os dias.
+💬 ROTEIRO DE ENTREVISTAS
+PERGUNTA 1: Como você organiza seus projetos no GitHub?
+COMO RESPONDER: "Utilizo o padrão Git Flow para gerenciar branches, escrevo commits semânticos e sempre documento o README.md com as tecnologias usadas, capturas de tela do app e instruções de como rodar o projeto."
+PERGUNTA 2: Por que escolheu Flutter em vez de nativo (Kotlin/Swift)?
+COMO RESPONDER: "Pela produtividade do desenvolvimento multiplataforma com um único código, o alto desempenho garantido pela renderização própria do Flutter e a facilidade de criar interfaces ricas que o framework oferece."
+PERGUNTA 3: Como o Figma influencia seu fluxo de desenvolvimento?
+COMO RESPONDER: "O Figma me permite validar a experiência do usuário antes de escrever a primeira linha de código. Isso economiza tempo de refatoração e garante que o produto final seja fiel ao design proposto."
+🎓 TRILHA DIO RECOMENDADA
+TRILHA: Formação Flutter Specialist ou Bootcamp Mobile Cloud & AI.
+POR QUE ESSA TRILHA:
+Em 2026, as trilhas da DIO estão focadas na convergência de Cloud, IA e Mobile. Ela fornecerá a base de Dart necessária e o conhecimento de nuvem para hospedar suas APIs.
+PRÓXIMOS PASSOS:
+Crie sua conta no GitHub hoje mesmo.
+Instale o Figma e comece a brincar com layouts.
+Inscreva-se na Formação Flutter na DIO.
+Comece o Mês 1 focando em entender o que faz um app ser "bonito e funcional" no Figma.
+✨ Seu plano de 6 meses está pronto!
+Com 180 dias, você não será apenas um iniciante, mas um desenvolvedor com um portfólio robusto e diferenciado pela sua visão de design e compliance.
+Deseja que eu aprofunde em algum tópico do Mês 1, como a configuração do Git ou as ferramentas do Figma?
+
+=================================
+# SEGUNDA PERGUNTA AO SEGUNDO PROMPT:
+## Acho importante aprender o github desde o inicio, va adicionando desde o inicio, acho que 30 dias seria suficiente.
+=================================
+Entendido! Vou ajustar o planejamento para focar totalmente no GitHub e Git logo no Mês 1, garantindo que você registre cada linha de código desde o primeiro dia. Com o prazo total de 180 dias e 20 horas semanais, você terá uma base técnica extremamente sólida para o mercado de 2026.
+Aqui está o seu plano atualizado:
+🧩 VISÃO DO DIA A DIA
+Como é o trabalho de um(a) Desenvolvedor(a) Mobile Flutter Specialist:
+Versionamento Constante: Realizar commits atômicos e organizar o fluxo de trabalho via GitHub Projects.
+Prototipagem Técnica: Validar no Figma a viabilidade técnica de uma interface antes de codificar.
+Desenvolvimento Reativo: Criar telas que reagem a mudanças de dados em tempo real.
+Integração de IA: Implementar assistentes virtuais e automações dentro do app.
+Garantia de Qualidade: Realizar revisões de código e testes automatizados para evitar bugs em produção.
+🧠 MAPA DE SKILLS
+CORE SKILLS (essenciais):
+Git & GitHub Profissional: Markdown, Git Flow, Pull Requests e Actions.
+Linguagem Dart: Manipulação de dados, POO e concorrência.
+Flutter Framework: Widgets, State Management e Navigation.
+NICE-TO-HAVE (complementares):
+Figma para Devs: Componentização e Design Systems.
+Prompt Engineering: Uso de IA para acelerar a escrita de código.
+FERRAMENTAS E TECNOLOGIAS:
+GitHub (Seu portfólio vivo).
+Figma (Ferramenta de UI/UX).
+VS Code (Editor de código principal).
+Flutter & Dart SDK.
+📅 ROADMAP DE 180 DIAS
+ADAPTADO PARA: 20 horas/semana
+MÊS 1 - FUNDAMENTOS DE CONTROLE E DESIGN (FOCO GITHUB)
+Semana 1-2: Domínio do Git e GitHub. Aprenda: init, add, commit, push, pull e a criar um README.md profissional para seu perfil.
+Semana 3-4: UI/UX com Figma. Entenda Grid, Tipografia e crie o protótipo do seu primeiro app. Suba as capturas de tela do design para um repositório no GitHub.
+MÊS 2 - LÓGICA E DART
+Semana 5-6: Sintaxe Dart: Variáveis, condicionais e loops. Tudo versionado no GitHub.
+Semana 7-8: Programação Orientada a Objetos (Classes, Herança e Interfaces) aplicada ao Dart.
+MÊS 3 - FLUTTER UI (DESIGN TO CODE)
+Semana 9-10: Primeiro projeto Flutter: Traduzir o design do Figma para Widgets Flutter.
+Semana 11-12: Layouts Complexos e Navegação entre telas. Início do uso de Branches no Git.
+MÊS 4 - DADOS E DINÂMICA
+Semana 13-14: Consumo de APIs e tratamento de JSON. Exibição de dados externos no app.
+Semana 15-16: Gerenciamento de Estado (Provider ou Signals). Como manter o app fluido.
+MÊS 5 - BACK-END E INTELIGÊNCIA ARTIFICIAL
+Semana 17-18: Integração com Firebase (Banco de Dados e Login).
+Semana 19-20: Implementação de IA: Integrar o app com a API do Google Gemini para análise de dados de Compliance.
+MÊS 6 - PORTFÓLIO DE IMPACTO
+Semana 21-22: Finalização do projeto principal: Documentação completa e vídeo no GitHub.
+Semana 23-24: Simulação de entrevistas e envio de currículos.
+🚀 PROJETO DE PORTFÓLIO
+PROJETO: SmartCompliance App
+O QUE FAZER:
+Um app desenvolvido em Flutter que usa IA para ler contratos. O usuário sobe o documento, e a IA destaca cláusulas fora de conformidade. Todo o histórico de desenvolvimento deve estar no GitHub desde o dia 1.
+ENTREGÁVEIS:
+Repositório GitHub: Com commits diários e documentação de como rodar.
+Protótipo Figma: Link público para o design.
+App Funcional: Integrado com Firebase e IA.
+CRITÉRIOS DE ACEITAÇÃO:
+Histórico de commits limpo e organizado.
+UI fiel ao protótipo do Figma.
+Funcionalidade de IA respondendo em menos de 3 segundos.
+💬 ROTEIRO DE ENTREVISTAS
+PERGUNTA 1: Por que você começou aprendendo GitHub?
+COMO RESPONDER: "Acredito que o controle de versão é a base de qualquer software profissional. Saber gerenciar o código desde o primeiro dia me permitiu ter um histórico transparente do meu progresso e facilita o trabalho em equipe."
+PERGUNTA 2: Como você utiliza o Figma no seu processo de dev?
+COMO RESPONDER: "Uso para planejar a jornada do usuário e a hierarquia visual. Isso evita retrabalho no código e me permite focar na lógica de implementação já sabendo exatamente como a UI deve se comportar."
+🎓 TRILHA DIO RECOMENDADA
+TRILHA: Formação Flutter Specialist
+POR QUE ESSA TRILHA:
+Ela possui módulos específicos de Git/GitHub e foca na construção de apps reais, casando perfeitamente com os 180 dias de estudo.
+PRÓXIMOS PASSOS:
+Crie seu perfil no GitHub.
+Siga o guia Hello World do GitHub para entender os conceitos básicos.
+Comece a trilha na DIO.
+Desafio Semanal: Todo domingo, faça um push de tudo que aprendeu na semana para o seu repositório de estudos.
+✨ Seu plano está pronto!
+Focar no GitHub desde o Mês 1 é a melhor estratégia para provar sua senioridade técnica mesmo começando do zero.
+
+=================================
+# TERCEIRA PERGUNTA AO SEGUNDO PROMPT:
+## Poderia pensar melhor a trilha e detalharmelhor os topicos em uma planilha?
+=================================
+Perfeito! Em 2026, o diferencial de um desenvolvedor mobile não é apenas "fazer telas", mas sim dominar o ciclo de vida do software (Git/GitHub), ter um olhar apurado para o produto (Figma) e saber integrar Inteligência Artificial.
+Abaixo, apresento o detalhamento do seu roadmap de 180 dias estruturado em formato de planilha técnica para facilitar seu acompanhamento.
+📅 PLANILHA DETALHADA: ROADMAP 180 DIAS (20h/Semana)
+Mês	Foco Principal	Semanas	Tópicos Detalhados	Ferramentas	Entregável Milestone
+1	Fundamentos e Controle	1-4	Git: commit, push, pull, branches; GitHub: Pull Requests, Issues, README.md; UI/UX: Prototipagem, Auto-layout e Componentes.	GitHub, Figma, Terminal	Perfil GitHub Profissional e Protótipo no Figma.
+2	Lógica Dart Profissional	5-8	Sintaxe moderna, Null Safety, Coleções (Maps, Lists), POO (Classes, Mixins) e Programação Assíncrona (Async/Await).	Dart Pad, VS Code	Repositório com 20+ exercícios de lógica resolvidos.
+3	Flutter UI & Layout	9-12	Widgets (Stateless/Stateful), Material Design 3, Responsividade (LayoutBuilder), Animações implícitas.	Flutter SDK, Android Studio	Primeiro App (Multi-telas) estático espelhado no Figma.
+4	Dados e Conectividade	13-16	Consumo de APIs REST (Pacote Dio/Http), Injeção de Dependência, Gerenciamento de Estado (Signals ou Provider).	Postman/Insomnia, Flutter	App de Cotações ou Previsão do Tempo consumindo API real.
+5	IA & Back-end (Firebase)	17-20	Firebase Auth, Firestore (NoSQL), Integração com Gemini API (Google Cloud Vertex AI) para análise de texto.	Firebase, Google Cloud	Módulo de chat inteligente integrado ao app.
+6	Projeto Final e Carreira	21-24	Arquitetura (Clean Arch ou MVC), Testes Unitários, CI/CD básico com GitHub Actions, Otimização de LinkedIn.	GitHub Actions, LinkedIn	App SmartCompliance completo e publicado (ou em APK).
+🧠 DETALHAMENTO DOS TÓPICOS (O QUE ESTUDAR)
+Mês 1: A Base do Desenvolvedor (Git + Figma)
+Git/GitHub (30 dias iniciais): Aprender o Git Flow (como trabalhar em equipe). Usar o GitHub Skills para praticar.
+Figma: Focar em Design System. Aprender a criar um botão no Figma que, quando alterado, muda em todas as telas.
+Mês 2: Dart (O Motor)
+Focar em Programação Orientada a Objetos (POO). As "Classes" podem ser vistas como "Normas" e "Objetos" como "Documentos" que seguem essas normas.
+Mês 5: Inteligência Artificial (O Diferencial)
+Em 2026, usar o Google AI Dart SDK. Aprender a enviar um "Prompt" de dentro do app e exibir a resposta da IA na tela.
+🚀 PROJETO DE PORTFÓLIO: "SmartCompliance Mobile"
+Este projeto une experiência em Compliance e Diagramação:
+O QUE É: Um assistente mobile que usa a câmera para escanear documentos e a IA para dizer se o documento está em conformidade com uma regra X.
+FLUXO TÉCNICO:
+Figma: Protótipo de alta fidelidade.
+GitHub: Organização das tarefas via GitHub Projects.
+Flutter: Interface rápida e fluida.
+IA: Integração com a API do Gemini para ler o texto da imagem (OCR) e analisar o risco.
+🎓 TRILHA DIO RECOMENDADA (ATUALIZADA)
+TRILHA: Formação Flutter Specialist
+POR QUE ESTA TRILHA?
+Módulo de Git/GitHub: Começa ensinando o que priorizar.
+Projetos Práticos: Exige o envio do código para o GitHub para obter o certificado.
+Mentoria de IA: As formações da DIO incluem como usar IA generativa para codar mais rápido.
+PRÓXIMOS PASSOS IMEDIATOS:
+Acessar o GitHub e criar seu repositório chamado estudos-flutter-2026.
+Baixar o Figma e procurar por "Material Design 3 UI Kit" na comunidade.
+Dedicar as primeiras 20 horas apenas ao Git e GitHub.
+O plano está traçado. O segredo agora é a constância. Começar o Mês 1 hoje criando sua primeira conta no GitHub!
+
+=================================
+# QUARTA PERGUNTA AO SEGUNDO PROMPT:
+## Relacione os pelo menos 3 cursos disponivel no youtube e acrescentar na planilha??
+=================================
+Para complementar sua jornada em 2026, selecionei os 3 melhores canais e cursos gratuitos no YouTube que são referências absolutas em Flutter, Dart e GitHub. Eles servirão como suporte técnico para os desafios da DIO.
+Aqui está a sua planilha atualizada e o detalhamento das fontes externas:
+📅 PLANILHA DETALHADA: ROADMAP 180 DIAS (20h/Semana)
+Mês	Foco Principal	Cursos YouTube Recomendados	Ferramenta UI/UX / Dev	Entregável Milestone
+1	Git, GitHub e Figma	Git e GitHub (Curso em Vídeo)	Figma	Perfil GitHub com README.md estilizado.
+2	Lógica com Dart	Dart para Iniciantes (Flutterando)	VS Code	Repositório de algoritmos de Compliance.
+3	Flutter UI (Básico)	Flutter para Iniciantes (Bonieky Lacerda)	Flutter SDK	Clone de interface de App de Finanças.
+4	APIs e Gerência de Estado	Especialização em Riverpod/Bloc (Canais acima)	Postman / Dio	App de consulta de CEP/Clima.
+5	IA e Firebase	Integração Gemini API (Canal Flutter)	Firebase Console	Módulo de Chatbot Inteligente.
+6	Portfólio e Carreira	Dicas de Soft Skills e LinkedIn (DIO)	GitHub Actions	App SmartCompliance no GitHub.
+🎥 CURSOS DO YOUTUBE RELACIONADOS (DETALHAMENTO)
+Curso de Git e GitHub - Canal: Curso em Vídeo (Gustavo Guanabara)
+Por que fazer: O curso tem a melhor didática em português para quem está começando. Nele, é possível aprender a criar repositórios, gerenciar versões e hospedar seu portfólio no GitHub Pages.
+Uso: Iniciar na Semana 1.
+Masterclass de Dart - Canal: Flutterando
+Por que fazer: Flutterando é a maior comunidade de Flutter do Brasil. O curso foca na linguagem Dart, essencial para entender o funcionamento do Flutter.
+Uso: Foco total no Mês 2.
+Flutter 2026 / Iniciantes - Canal: Bonieky Lacerda
+Por que fazer: Bonieky foca em produtividade e ensina a construir interfaces (UI) rapidamente, o que combina com seu background de diagramador.
+Uso: Iniciar no Mês 3.
+🚀 INTEGRAÇÃO COM A TRILHA DIO
+A Trilha DIO (Formação Flutter Specialist) será seu guia oficial para certificação e networking. Utilize os cursos do YouTube acima como reforço ao encontrar tópicos difíceis na DIO.
+DICA PARA 2026:
+Ao finalizar um vídeo desses cursos, faça um commit no seu GitHub com o título: "feat: aula X do curso Y finalizada". Isso mostrará aos recrutadores que você domina o ciclo de desenvolvimento.
+🛠️ FERRAMENTAS DE UI/UX (ADICIONAIS)
+Para o seu perfil de diagramador, recomenda-se explorar a Comunidade do Figma. Pesquise por "Mobile UI Kit" e estude a organização das camadas feita pelos designers. Isso facilitará a conversão do design em código Flutter.
+Pronto para começar a Semana 1 com Git e GitHub? Se precisar de ajuda para instalar o Git, avise!
+
+
+
